@@ -1,0 +1,48 @@
+2025-08-25 07:24:48,504 - ERROR - Erro ao importar dependências: No module named 'google'
+2025-08-25 07:25:17,892 - ERROR - Erro ao importar dependências: No module named 'google'
+2025-08-25 07:31:19,684 - INFO - Iniciando automaticamente em segundo plano...
+2025-08-25 07:31:19,685 - INFO - Iniciando upload automático...
+2025-08-25 07:31:19,685 - ERROR - Arquivo de credenciais não encontrado
+2025-08-25 07:32:14,297 - ERROR - Arquivo de credenciais não encontrado
+2025-08-25 07:35:45,345 - ERROR - Arquivo de credenciais não encontrado
+2025-08-25 07:36:26,517 - INFO - Configuração salva com sucesso
+2025-08-25 07:44:15,258 - INFO - Iniciando automaticamente...
+2025-08-25 07:44:15,258 - INFO - Iniciando upload automático...
+2025-08-25 07:48:21,105 - INFO - Iniciando automaticamente...
+2025-08-25 07:48:21,106 - INFO - Iniciando upload automático...
+2025-08-25 07:52:37,019 - INFO - Configuração salva
+2025-08-25 07:53:02,318 - INFO - Upload automático parado
+2025-08-25 07:53:23,513 - INFO - Iniciando automaticamente...
+2025-08-25 07:53:23,513 - INFO - Iniciando upload automático...
+2025-08-25 07:53:33,074 - INFO - Configuração salva
+2025-08-25 08:00:19,300 - INFO - Iniciando automaticamente...
+2025-08-25 08:00:19,300 - INFO - Iniciando upload automático...
+2025-08-25 08:00:43,198 - INFO - "GET /?state=EcJTUzgecfhwH5bKn0K2oJ4rq0jerY&code=4/0AVMBsJhHprcmXBArFC2RV5H05MzqjkRdMhrie9FDUXXxH504hsrRaD3PmX1E4cOm_DyjHQ&scope=https://www.googleapis.com/auth/drive.file HTTP/1.1" 200 65
+2025-08-25 08:00:43,824 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-25 08:00:43,828 - INFO - Autenticação realizada com sucesso!
+2025-08-25 08:00:45,229 - INFO - Pasta 'NFes_XML' criada
+2025-08-25 08:00:45,230 - WARNING - Nenhum arquivo XML encontrado
+2025-08-25 08:15:45,233 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-25 08:15:45,239 - INFO - Autenticação realizada com sucesso!
+2025-08-25 08:15:46,158 - WARNING - Nenhum arquivo XML encontrado
+2025-08-25 08:30:46,160 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-25 08:30:46,167 - INFO - Autenticação realizada com sucesso!
+2025-08-25 08:30:47,014 - WARNING - Nenhum arquivo XML encontrado
+2025-08-25 08:45:47,016 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-25 08:45:47,018 - INFO - Autenticação realizada com sucesso!
+2025-08-25 08:45:47,916 - WARNING - Nenhum arquivo XML encontrado
+2025-08-25 09:00:48,447 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-25 09:00:48,449 - INFO - Autenticação realizada com sucesso!
+2025-08-25 09:00:49,258 - WARNING - Nenhum arquivo XML encontrado
+2025-08-25 09:02:57,837 - INFO - Iniciando automaticamente...
+2025-08-25 09:02:57,837 - INFO - Iniciando upload automático...
+2025-08-25 09:02:57,839 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-25 09:02:57,841 - INFO - Autenticação realizada com sucesso!
+2025-08-25 09:02:58,682 - WARNING - Nenhum arquivo XML encontrado
+2025-08-25 09:05:18,017 - INFO - Iniciando automaticamente...
+2025-08-25 09:05:18,017 - INFO - Iniciando upload automático...
+2025-08-25 09:05:18,020 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-25 09:05:18,022 - INFO - Autenticação realizada com sucesso!
+2025-08-25 09:05:18,684 - WARNING - Nenhum arquivo XML encontrado
+2025-08-25 09:05:32,953 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-25 09:05:32,955 - INFO - Autenticação realizada com sucesso!

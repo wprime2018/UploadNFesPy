@@ -1,0 +1,27 @@
+INSTRUÇÕES DE INSTALAÇÃO - NFe UPLOADER
+
+1. BAIXAR E INSTALAR PYTHON:
+   - Acesse: https://www.python.org/downloads/
+   - Baixe a versão mais recente
+   - Na instalação, MARQUE a opção "Add Python to PATH"
+
+2. EXECUTAR INSTALAÇÃO:
+   - Duplo clique no arquivo "build.bat"
+   - Siga as instruções na tela
+
+3. COMO USAR:
+   - Duplo clique no atalho "NFe Uploader" na área de trabalho
+   - OU execute "run.bat"
+   - Configure o arquivo credentials.json
+   - Selecione a pasta com os XMLs
+   - Clique em "Salvar Configuração"
+   - Teste a conexão
+   - Inicie o upload automático
+
+4. COMO OBTER CREDENTIALS.JSON:
+   - Acesse: https://console.cloud.google.com/
+   - Crie um projeto
+   - Ative a API do Google Drive
+   - Crie credenciais OAuth 2.0
+   - Tipo: Aplicativo da área de trabalho
+   - Baixe o arquivo JSON

@@ -1,0 +1,8 @@
+{
+    "credentials_file": "",
+    "source_directory": "",
+    "drive_folder": "NFes_XML",
+    "update_interval": 300,
+    "auto_start": false,
+    "minimize_to_tray": false
+}
